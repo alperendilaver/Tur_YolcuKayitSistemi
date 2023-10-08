@@ -1,0 +1,3 @@
+telefon numarasını yanlış gösteriyor
+
+gezi adı değiştirirken yeni bir dizi oluşturmak yerine rename yapılabilir gibime geliyo
